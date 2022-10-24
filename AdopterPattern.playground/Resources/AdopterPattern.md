@@ -1,0 +1,2 @@
+
+## Adopter Pattern
